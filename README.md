@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Ayesha-Noreen/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Ayesha-Noreen/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 ## Linked List
 |  |
