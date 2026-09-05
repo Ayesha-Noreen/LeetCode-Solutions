@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ayesha-Noreen/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Ayesha-Noreen/LeetCode-Solutions/tree/master/0015-3sum) |
+| [3904-smallest-stable-index-ii](https://github.com/Ayesha-Noreen/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ayesha-Noreen/LeetCode-Solutions/tree/master/0015-3sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/Ayesha-Noreen/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
